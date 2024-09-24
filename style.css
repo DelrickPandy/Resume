@@ -38,14 +38,4 @@ img {
   clear: both;
 }
 
-_________________________________________________________________
-
-Step 4: Copy this to the head section of your html file:
-
-<head>
-<title>FoC</title>
-<link rel="stylesheet" type="text/css" href="style.css">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-</head>
+________________________________________________________________
